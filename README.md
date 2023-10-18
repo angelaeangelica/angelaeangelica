@@ -1,16 +1,20 @@
-### Hi there 👋
+### Boas vindas ao nosso perfil 🫀
 
-<!--
-**angelaeangelica/angelaeangelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nós somos a Angela e Angelica
 
-Here are some ideas to get you started:
+- Somos estudantes da diciplina de Pensamento computacional
+- Estamos desenvolvendo projetos no jasvascript com os alunos
+- Usaremos esse espaço para realizar nossos trabalhos em computação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você pode falar conosco 📫
+
+angela.lopes.goncalves@escola.pr.gov.br 💚
+
+![](https://media.tenor.com/AaoyW1pRRjYAAAAC/what-dog.gif)
+
+
+
+
+
+
+
